@@ -8,3 +8,6 @@ add news
 
 
 update in master
+
+
+remote add
